@@ -1,0 +1,22 @@
+/* Dropdown 10 */
+@media (min-width: 768px) {
+.dropdown-menu { 
+	background-color: #fdfdfd;
+	background-color: rgba(255,255,255,0.8);
+}
+.dropdown-menu > li > a { color: #555555; }
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus { color: #ffffff; }
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus { color: #ffffff; }
+.dropdown-menu > li { border-bottom: 1px solid transparent; }
+.yamm .yamm-content { color: #555555; }
+.yamm .yamm-content h4 { color: #555555; }
+.yamm .yamm-content ul li a { color: #555555; }
+.yamm .yamm-content ul li:hover i, 
+.yamm .yamm-content ul li:hover a, 
+.yamm .yamm-content ul li a:hover { color: #ffffff; }
+.yamm .yamm-content .icon-arrow-list li a { color: #555555; }
+}
+.language ul li a { color: #555555; }

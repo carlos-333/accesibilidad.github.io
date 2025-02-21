@@ -1,0 +1,19 @@
+/* Dropdown 5 */
+@media (min-width: 768px) {
+.dropdown-menu { background-color: #444444; }
+.dropdown-menu > li > a { color: #ffffff; }
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus { color: #ffffff; }
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus { color: #ffffff; }
+.dropdown-menu > li { border-bottom: 1px solid #383838; }
+.yamm .yamm-content { color: #ffffff; }
+.yamm .yamm-content h4 { color: #ffffff; }
+.yamm .yamm-content ul li a { color: #ffffff; }
+.yamm .yamm-content ul li:hover i, 
+.yamm .yamm-content ul li:hover a, 
+.yamm .yamm-content ul li a:hover { color: #ffffff; }
+.yamm .yamm-content .icon-arrow-list li a { color: #ffffff; }
+}
+.language ul li a { color: #ffffff; }
